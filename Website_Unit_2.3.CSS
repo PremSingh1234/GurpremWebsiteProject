@@ -1,0 +1,35 @@
+body
+{
+    background-image: url(giphy.gif);
+    background-size: cover;
+}
+h1{
+    color: red;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 60px;
+    text-decoration: underline;
+}
+.h2_5{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-decoration: underline;
+}
+a:link{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+button:visited{
+    color: red
+}
+button{
+    border-radius: 10px;
+    color: red;
+    background-color: red;
+    padding: 5px
+    
+}
+button:hover{
+    color: yellow
+}
